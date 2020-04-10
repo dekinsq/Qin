@@ -1,8 +1,8 @@
 package plugins
 
 import (
+	"github.com/dekinsq/qf"
 	"log"
-	"qf"
 	"time"
 )
 
